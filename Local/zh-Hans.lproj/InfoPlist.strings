@@ -1,0 +1,9 @@
+NFCReaderUsageDescription = "My Spot需要将点链接保存到NFC标签";
+NSFaceIDUsageDescription = "My Spot需要访问Face ID的隐藏点";
+NSCalendarsUsageDescription = "My Spot需要访问日历才能添加事件";
+NSContactsUsageDescription = "My Spot需要您的联系人才能将邀请人添加到此活动中";
+NSLocationWhenInUseUsageDescription = "My Spot需要您的位置来保存并在地图上查看您的位置";
+NSCameraUsageDescription = "My Spot需要您的相机来保存您的位置图片";
+DISCOVER_SPOTS_SHORTCUT_TITLE = "发现斑点";
+CREATE_SPOT_SHORTCUT_TITLE = "创建点";
+OPEN_NOTIFICATIONS_SHORTCUT_TITLE = "通知";

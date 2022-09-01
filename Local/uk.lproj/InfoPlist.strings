@@ -1,0 +1,9 @@
+NFCReaderUsageDescription = "My Spot потрібно зберегти посилання на місце на тег NFC";
+NSFaceIDUsageDescription = "My Spot потребує доступу до Face ID для прихованих місць";
+NSCalendarsUsageDescription = "My Spot потребує доступу до календарів, щоб додати події";
+NSContactsUsageDescription = "My Spot потребує ваших контактів, щоб додати запрошених до цієї події";
+NSLocationWhenInUseUsageDescription = "My Spot потребує вашого місцезнаходження, щоб зберегти та переглянути свої місця на карті";
+NSCameraUsageDescription = "My Spot потребує вашої камери, щоб зберегти зображення вашого місця";
+DISCOVER_SPOTS_SHORTCUT_TITLE = "Відкрийте місця";
+CREATE_SPOT_SHORTCUT_TITLE = "Створити місце";
+OPEN_NOTIFICATIONS_SHORTCUT_TITLE = "Сповіщення";

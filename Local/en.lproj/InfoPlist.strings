@@ -1,0 +1,9 @@
+NFCReaderUsageDescription = "My Spot needs to save the spot link to NFC tag";
+NSFaceIDUsageDescription = "My Spot needs access to Face ID for hidden spots";
+NSCalendarsUsageDescription = "My Spot needs access to calendars to add events";
+NSContactsUsageDescription = "My Spot needs your contacts to add invitees to this event";
+NSLocationWhenInUseUsageDescription = "My Spot needs your location to save and view your spots on a map";
+NSCameraUsageDescription = "My Spot needs your camera to save a picture of your spot";
+DISCOVER_SPOTS_SHORTCUT_TITLE = "Discover Spots";
+CREATE_SPOT_SHORTCUT_TITLE = "Create Spot";
+OPEN_NOTIFICATIONS_SHORTCUT_TITLE = "Notifications";

@@ -1,0 +1,9 @@
+NFCReaderUsageDescription = "My Spot perlu menyimpan tautan spot ke tag NFC";
+NSFaceIDUsageDescription = "My Spot membutuhkan akses ke Face ID untuk tempat tersembunyi";
+NSCalendarsUsageDescription = "My Spot membutuhkan akses ke kalender untuk menambahkan acara";
+NSContactsUsageDescription = "My Spot membutuhkan kontak Anda untuk menambahkan undangan ke acara ini";
+NSLocationWhenInUseUsageDescription = "My Spot membutuhkan lokasi Anda untuk menyimpan dan melihat tempat Anda di peta";
+NSCameraUsageDescription = "My Spot membutuhkan kamera Anda untuk menyimpan gambar tempat Anda";
+DISCOVER_SPOTS_SHORTCUT_TITLE = "Temukan Bintik -bintik";
+CREATE_SPOT_SHORTCUT_TITLE = "Buat tempat";
+OPEN_NOTIFICATIONS_SHORTCUT_TITLE = "Pemberitahuan";

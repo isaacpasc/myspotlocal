@@ -1,0 +1,9 @@
+NFCReaderUsageDescription = "My Spot को NFC टैग के लिए स्पॉट लिंक को सहेजने की जरूरत है";
+NSFaceIDUsageDescription = "My Spot को छिपे हुए स्पॉट के लिए Face ID तक पहुंच की आवश्यकता है";
+NSCalendarsUsageDescription = "घटनाओं को जोड़ने के लिए My Spot को कैलेंडर तक पहुंच की आवश्यकता है";
+NSContactsUsageDescription = "इस घटना में आमंत्रण जोड़ने के लिए My Spot को आपके संपर्कों की आवश्यकता है";
+NSLocationWhenInUseUsageDescription = "My Spot को अपने स्थान को सहेजने और देखने के लिए आपके स्थान की आवश्यकता है";
+NSCameraUsageDescription = "My Spot को अपने स्पॉट की तस्वीर को सहेजने के लिए आपके कैमरे की आवश्यकता है";
+DISCOVER_SPOTS_SHORTCUT_TITLE = "स्पॉट की खोज करें";
+CREATE_SPOT_SHORTCUT_TITLE = "स्पॉट बनाएँ";
+OPEN_NOTIFICATIONS_SHORTCUT_TITLE = "अधिसूचना";

@@ -1,0 +1,9 @@
+NFCReaderUsageDescription = "My SpotはNFCタグへのスポットリンクを保存する必要があります";
+NSFaceIDUsageDescription = "My Spotは非表示のスポットのためにFace IDにアクセスする必要があります";
+NSCalendarsUsageDescription = "My Spotはイベントを追加するためにカレンダーにアクセスする必要があります";
+NSContactsUsageDescription = "My Spotはこのイベントに招待者を追加するために連絡先が必要です";
+NSLocationWhenInUseUsageDescription = "My Spotは地図上​​であなたのスポットを保存して表示するためにあなたの場所が必要です";
+NSCameraUsageDescription = "My Spotはあなたのスポットの写真を保存するためにあなたのカメラが必要です";
+DISCOVER_SPOTS_SHORTCUT_TITLE = "スポットを発見します";
+CREATE_SPOT_SHORTCUT_TITLE = "スポットを作成します";
+OPEN_NOTIFICATIONS_SHORTCUT_TITLE = "通知";

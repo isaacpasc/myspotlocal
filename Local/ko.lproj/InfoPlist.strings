@@ -1,0 +1,9 @@
+NFCReaderUsageDescription = "My Spot은 NFC 태그에 대한 스팟 링크를 저장해야합니다.";
+NSFaceIDUsageDescription = "My Spot은 숨겨진 지점을 위해 Face ID에 액세스해야합니다";
+NSCalendarsUsageDescription = "My Spot은 이벤트를 추가하려면 캘린더에 액세스해야합니다";
+NSContactsUsageDescription = "My Spot 은이 이벤트에 초대장을 추가하려면 연락처가 필요합니다.";
+NSLocationWhenInUseUsageDescription = "My Spot은지도에서 스팟을 저장하고 볼 수있는 위치가 필요합니다.";
+NSCameraUsageDescription = "My Spot은 자리 사진을 저장하기 위해 카메라가 필요합니다.";
+DISCOVER_SPOTS_SHORTCUT_TITLE = "지점을 발견하십시오";
+CREATE_SPOT_SHORTCUT_TITLE = "자리를 만듭니다";
+OPEN_NOTIFICATIONS_SHORTCUT_TITLE = "알림";
